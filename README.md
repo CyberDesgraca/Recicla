@@ -1,6 +1,6 @@
 # Recicla+
 
-(\assets\img\logo.png)
+![demo](\assets\img\logo.png)
 
 # Programa Recicla+ – Incentivo à Reciclagem com Recompensas Sustentáveis
 
@@ -39,4 +39,5 @@ Sociais: Fortalecimento da educação ambiental e do engajamento da população 
 Individuais: Reconhecimento e recompensas para os cidadãos que praticam a reciclagem de forma contínua.
 Corporativas: Valorização da imagem das empresas parceiras e alinhamento com práticas de ESG (Environmental, Social and Governance).
 
-# O Recicla+ busca transformar hábitos e promover um ciclo virtuoso entre cidadãos, empresas e o meio ambiente, gerando benefícios concretos para todos os envolvidos.
+# O Recicla+ 
+Busca transformar hábitos e promover um ciclo virtuoso entre cidadãos, empresas e o meio ambiente, gerando benefícios concretos para todos os envolvidos.
