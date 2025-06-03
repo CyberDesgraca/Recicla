@@ -1,6 +1,6 @@
 # Recicla+
 
-![Menu](\assets\img\logo.png)
+(\assets\img\logo.png)
 
 # Programa Recicla+ – Incentivo à Reciclagem com Recompensas Sustentáveis
 
