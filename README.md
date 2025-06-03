@@ -1,8 +1,8 @@
-# Recicla+
+Recicla+
+# Programa Recicla+ – Incentivo à Reciclagem com Recompensas Sustentáveis
 
 ![demo](assets/img/logo.png)
 
-# Programa Recicla+ – Incentivo à Reciclagem com Recompensas Sustentáveis
 
 # Descrição Geral:
 O Recicla+ é um programa de incentivo à reciclagem que visa promover práticas sustentáveis por meio da conscientização e da recompensa aos cidadãos que adotam comportamentos ambientalmente responsáveis. A iniciativa se baseia na atribuição de pontos a usuários que comprovam a correta destinação de resíduos recicláveis, os quais podem ser trocados por benefícios oferecidos por empresas parceiras.
