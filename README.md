@@ -37,7 +37,7 @@ O programa Recicla+ estabelece parcerias com organizações comprometidas com a 
 Ambientais: Redução significativa da quantidade de resíduos enviados a aterros sanitários e estímulo à economia circular.
 Sociais: Fortalecimento da educação ambiental e do engajamento da população em ações coletivas.
 Individuais: Reconhecimento e recompensas para os cidadãos que praticam a reciclagem de forma contínua.
-Corporativas: Valorização da imagem das empresas parceiras e alinhamento com práticas de ESG (Environmental, Social and Governance).
+porporativas: Valorização da imagem das empresas parceiras e alinhamento com práticas de ESG (Environmental, Social and Governance).
 
-# O Recicla+ 
+# Recicla+ 
 Busca transformar hábitos e promover um ciclo virtuoso entre cidadãos, empresas e o meio ambiente, gerando benefícios concretos para todos os envolvidos.
